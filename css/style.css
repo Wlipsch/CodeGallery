@@ -56,7 +56,7 @@ table {
   }
   
   .start-screen {
-	background-image: url('start-screen-image.jpg');
+	background-image: url('../assets/startPagePhoto.jpeg');
 	background-size: cover;
 	background-position: center;
 	height: 100vh;
