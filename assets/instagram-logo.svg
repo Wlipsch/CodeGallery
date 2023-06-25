@@ -1,0 +1,11 @@
+<svg id="instagram-logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34.397" height="34.397" viewBox="0 0 34.397 34.397">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_167" data-name="Rectangle 167" width="34.397" height="34.397"/>
+    </clipPath>
+  </defs>
+  <g id="Group_56" data-name="Group 56" transform="translate(0 0)" clip-path="url(#clip-path)">
+    <path id="Path_640" data-name="Path 640" d="M24.938,0H9.435A9.447,9.447,0,0,0,0,9.459v15.5A9.447,9.447,0,0,0,9.459,34.4h15.5A9.447,9.447,0,0,0,34.4,24.938V9.435A9.447,9.447,0,0,0,24.938,0M17.2,26.658A9.459,9.459,0,1,1,26.658,17.2,9.459,9.459,0,0,1,17.2,26.658M27.521,8.6a1.72,1.72,0,1,1,1.72-1.72,1.72,1.72,0,0,1-1.72,1.72" transform="translate(0 0)"/>
+    <path id="Path_641" data-name="Path 641" d="M20.989,13.25h-.026a7.752,7.752,0,1,0,.026,0" transform="translate(-3.791 -3.791)"/>
+  </g>
+</svg>

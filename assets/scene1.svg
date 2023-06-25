@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="693.642" viewBox="0 0 1200 693.642">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_48" data-name="Ellipse 48" cx="255.104" cy="255.104" r="255.104" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="scene1" transform="translate(-17.868 -42)">
+    <path id="vak_1" data-name="vak 1" d="M41.838,36.413l1200,78.608L852.888,730.055,142.465,595.132Z" transform="translate(-23.97 5.587)" fill="#ddd"/>
+    <g id="Mask_Group_7" data-name="Mask Group 7" transform="translate(362.427 133.616)" clip-path="url(#clip-path)">
+      <g id="Sterretje" transform="translate(-308.02 -308.02)">
+        <g id="Group_69" data-name="Group 69" transform="translate(0 0)">
+          <rect id="Rectangle_197" data-name="Rectangle 197" width="15.796" height="1126.248" transform="translate(556.016 0)" fill="#ffff40"/>
+          <rect id="Rectangle_198" data-name="Rectangle 198" width="15.035" height="1127.625" transform="matrix(0.966, -0.259, 0.259, 0.966, 410.082, 20.741)" fill="#ffff40"/>
+          <rect id="Rectangle_199" data-name="Rectangle 199" width="15.035" height="1127.625" transform="translate(274.853 78.881) rotate(-30.001)" fill="#ffff40"/>
+          <rect id="Rectangle_200" data-name="Rectangle 200" width="15.035" height="1127.625" transform="matrix(0.707, -0.707, 0.707, 0.707, 159.285, 170.034)" fill="#ffff40"/>
+          <rect id="Rectangle_201" data-name="Rectangle 201" width="15.035" height="1127.625" transform="translate(71.244 287.993) rotate(-59.999)" fill="#ffff40"/>
+          <rect id="Rectangle_202" data-name="Rectangle 202" width="15.035" height="1127.625" transform="translate(16.73 424.724) rotate(-74.999)" fill="#ffff40"/>
+          <rect id="Rectangle_203" data-name="Rectangle 203" width="1126.248" height="15.796" transform="translate(0 556.016)" fill="#ffff40"/>
+          <rect id="Rectangle_204" data-name="Rectangle 204" width="1127.625" height="15.035" transform="translate(71.24 838.791) rotate(-30)" fill="#ffff40"/>
+          <rect id="Rectangle_205" data-name="Rectangle 205" width="1127.625" height="15.035" transform="matrix(0.966, -0.259, 0.259, 0.966, 16.729, 702.063)" fill="#ffff40"/>
+          <rect id="Rectangle_206" data-name="Rectangle 206" width="1127.625" height="15.035" transform="matrix(0.707, -0.707, 0.707, 0.707, 159.282, 956.754)" fill="#ffff40"/>
+          <rect id="Rectangle_207" data-name="Rectangle 207" width="1127.625" height="15.035" transform="matrix(0.5, -0.866, 0.866, 0.5, 274.852, 1047.909)" fill="#ffff40"/>
+          <rect id="Rectangle_208" data-name="Rectangle 208" width="1127.625" height="15.035" transform="translate(410.081 1106.049) rotate(-74.999)" fill="#ffff40"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

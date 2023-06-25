@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="149.351" height="172.396" viewBox="0 0 149.351 172.396">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Polygon_5" data-name="Polygon 5" d="M68.1,0l68.1,118.109H0Z" transform="translate(118.108 0) rotate(90)" fill="#803b3b"/>
+    </clipPath>
+  </defs>
+  <g id="playBtn" transform="translate(-623.5 -2937)">
+    <path id="Polygon_6" data-name="Polygon 6" d="M86.2,0l86.2,149.351H0Z" transform="translate(772.851 2937) rotate(90)" fill="#ffff40"/>
+    <g id="Mask_Group_6" data-name="Mask Group 6" transform="translate(631.339 2955.094)" clip-path="url(#clip-path)">
+      <rect id="Rectangle_150" data-name="Rectangle 150" width="3.988" height="303.708" transform="translate(25.002 -83.596)"/>
+      <rect id="Rectangle_151" data-name="Rectangle 151" width="4.051" height="303.822" transform="matrix(0.966, -0.259, 0.259, 0.966, -14.376, -77.895)"/>
+      <rect id="Rectangle_152" data-name="Rectangle 152" width="4.051" height="303.822" transform="translate(-50.811 -62.23) rotate(-30.001)"/>
+      <rect id="Rectangle_153" data-name="Rectangle 153" width="4.051" height="303.822" transform="matrix(0.707, -0.707, 0.707, 0.707, -81.949, -37.671)"/>
+      <path id="Path_625" data-name="Path 625" d="M0,0H4.051V303.822H0Z" transform="translate(-105.671 -5.888) rotate(-59.999)"/>
+      <rect id="Rectangle_155" data-name="Rectangle 155" width="4.051" height="303.822" transform="translate(-120.358 30.952) rotate(-74.999)"/>
+      <rect id="Rectangle_156" data-name="Rectangle 156" width="303.708" height="3.988" transform="translate(-125.011 66.417)"/>
+      <rect id="Rectangle_157" data-name="Rectangle 157" width="303.822" height="4.051" transform="translate(-105.672 142.516) rotate(-30)"/>
+      <rect id="Rectangle_158" data-name="Rectangle 158" width="303.822" height="4.051" transform="matrix(0.966, -0.259, 0.259, 0.966, -120.359, 105.676)"/>
+      <rect id="Rectangle_159" data-name="Rectangle 159" width="303.822" height="4.051" transform="matrix(0.707, -0.707, 0.707, 0.707, -81.95, 174.299)"/>
+      <rect id="Rectangle_160" data-name="Rectangle 160" width="303.822" height="4.051" transform="matrix(0.5, -0.866, 0.866, 0.5, -50.811, 198.859)"/>
+      <rect id="Rectangle_161" data-name="Rectangle 161" width="303.822" height="4.051" transform="translate(-14.376 214.524) rotate(-74.999)"/>
+    </g>
+  </g>
+</svg>
